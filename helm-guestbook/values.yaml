@@ -54,7 +54,7 @@ applicationAnnotations:
 memoryDemo:
   resources:
     limits:
-      memory: 500Mi
+      memory: 200Mi
     requests:
       memory: 100Mi
 
